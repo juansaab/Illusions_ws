@@ -15,7 +15,7 @@ Complete la tabla:
 
 | Integrante | github nick |
 |------------|-------------|
-|            |             |
+| Juan David Saab | juansaab |
 
 ## Discusión
 
@@ -23,12 +23,12 @@ Complete la tabla:
 
 | Ilusión | Categoria | Referencia | Tipo de interactividad (si aplica) | URL código base (si aplica) |
 |---------|-----------|------------|------------------------------------|-----------------------------|
-|         |           |            |                                    |                             |
-|         |           |            |                                    |                             |
-|         |           |            |                                    |                             |
-|         |           |            |                                    |                             |
-|         |           |            |                                    |                             |
-|         |           |            |                                    |                             |
+| Hering illusion | Geométrica | https://en.wikipedia.org/wiki/Hering_illusion | Clic para desactivar | |
+| Ebbinghaus illusion | Geométrica | https://es.wikipedia.org/wiki/Hermann_Ebbinghaus | Click para desactivar | | 
+| 3D Movement | Movimiento | | Fecha derecha para mover | |
+| Square illusion | Movimiento | | | https://www.openprocessing.org/sketch/168628 |
+| An ambiguous illusion | Ambigua | | | https://www.openprocessing.org/sketch/519894 |
+| Müller-Lyer | Paradójica | https://en.wikipedia.org/wiki/Müller-Lyer_illusion | Clic para desactivar | |
 
 2. Describa brevememente las referencias estudiadas y los posibles temas en los que le gustaría profundizar:
 
